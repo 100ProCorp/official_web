@@ -1,0 +1,23 @@
+{
+    "name": "100Pro",
+    "short_name": "습관의 힘",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "100ProOfficial",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
